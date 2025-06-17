@@ -1,10 +1,13 @@
 header {
     padding: 50px 50px 50px 50px;
     display: flex;
-    justify-content: center;
+    color: brack;
+    justify-content: space-between;
     font-family: "Century";
     text-decoration: none;
 }
+
 .links {
-    display: flex;
+    margin-right: 20px;
+    text-decoration: none;
 }
