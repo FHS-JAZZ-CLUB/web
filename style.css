@@ -1,7 +1,8 @@
 header {
     padding: 50px 50px 50px 50px;
     display: flex;
-    color: brack;
+    color: black;
+    font-size: x-large;
     justify-content: space-between;
     font-family: "Century";
     text-decoration: none;
