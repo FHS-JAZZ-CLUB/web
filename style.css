@@ -1,9 +1,10 @@
 header {
     padding: 50px 50px 50px 50px;
+    display: flex;
+    justify-content: center;
     font-family: "Century";
     text-decoration: none;
 }
-
 .links {
     display: flex;
 }
