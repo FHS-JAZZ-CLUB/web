@@ -2,10 +2,10 @@ header {
     padding: 30px 20px 30px 20px;
     display: flex;
     color: black;
-    font-size: 25%;
+    font-size: 40%;
     justify-content: space-between;
     font-family: "Century";
-    text-decoration: none;
+    text-decoration-line: overline;
 }
 
 .links {
