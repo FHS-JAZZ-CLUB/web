@@ -2,13 +2,13 @@ header {
     padding: 15px 15px 15px 15px;
     color: black !important;
     text-decoration: none;
+    display: flex;
+    justify-content: space-between;
     font-size: 100%;
     font-family: "Century";
 }
 
 .headers {
-    display: flex;
-    justify-content: space-between;
 }
 
 .links a {
